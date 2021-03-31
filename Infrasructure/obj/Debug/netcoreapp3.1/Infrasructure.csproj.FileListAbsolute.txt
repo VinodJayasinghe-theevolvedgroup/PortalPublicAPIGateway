@@ -1,0 +1,17 @@
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.deps.json
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.dll
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.pdb
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.AssemblyInfoInputs.cache
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.AssemblyInfo.cs
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.csproj.CoreCompileInputs.cache
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.dll
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.deps.json
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.dll
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\bin\Debug\netcoreapp3.1\Infrasructure.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.AssemblyInfoInputs.cache
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.AssemblyInfo.cs
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.csproj.CoreCompileInputs.cache
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.dll
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Infrasructure\obj\Debug\netcoreapp3.1\Infrasructure.csprojAssemblyReference.cache

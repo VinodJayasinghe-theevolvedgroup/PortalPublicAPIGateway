@@ -1,0 +1,17 @@
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\THE EVOLVED GROUP\Projects\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\THE EVOLVED GROUP\Projects\POC\PortalPublicAPIGateway\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
